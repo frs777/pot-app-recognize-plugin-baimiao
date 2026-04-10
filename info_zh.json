@@ -2,17 +2,17 @@
   "id": "plugin.com.TechDecryptor.baimiao_ocr",
   "plugin_type": "recognize",
   "icon": "icon.png",
-  "display": "白描 OCR - Rozpoznawanie",
+  "display": "白描 OCR",
   "homepage": "https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao",
   "needs": [
     {
       "key": "username",
-      "display": "手机号/邮箱 - Rozpoznawanie",
+      "display": "手机号/邮箱",
       "type": "input"
     },
     {
       "key": "password",
-      "display": "密码 - Rozpoznawanie",
+      "display": "密码",
       "type": "input"
     }
   ],
